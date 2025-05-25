@@ -1,7 +1,7 @@
 # 🚀 Devlob - Launch Your SaaS in 4 Weeks, Not 4 Months
 
 ```
-Would you be interested in seeing how we help startups generate their first $10K MRR in under 30 days?
+Would you be interested in seeing how we help startups generate their first $5K MRR in under 30 days?
 ```
 
 **We're the agency that turns your SaaS idea into paying customers while your competitors are still hiring developers.**
@@ -11,11 +11,10 @@ Would you be interested in seeing how we help startups generate their first $10K
 ## 📊 The Numbers Don't Lie
 
 ```diff
-+ 50+ SaaS applications launched successfully
++ 20+ SaaS applications launched successfully
 + Average time to first paying customer: 28 days  
 + 60-80% faster than traditional development
-+ $150K+ average savings in development costs
-+ 95% client satisfaction rate
++ $50K+ average savings in development costs
 ```
 
 ---
@@ -31,8 +30,8 @@ Would you be interested in seeing how we help startups generate their first $10K
 
 ```
 Week 1-2: ⚡ Core SaaS infrastructure deployed
-Week 3-4: 🚀 Live product with paying customers
-Week 5+:  📈 Scale and optimize based on real user data
+Week 3-4: 🚀 MVP development
+Week 5+:  📈 Live product with paying customers & Scale and optimize based on real user data
 ```
 
 ---
@@ -45,56 +44,25 @@ Week 5+:  📈 Scale and optimize based on real user data
 > **"While competitors were still in development, we were serving 100+ paying customers."**  
 > — Marcus Rodriguez, Founder of TeamSync  
 
-> **"70% faster to market, $200K saved in development costs. Incredible ROI."**  
+> **"70% faster to market, $30K saved in development costs. Incredible ROI."**  
 > — Jennifer Walsh, CTO of ScaleMetrics
 
 ---
 
-## ⚡ Our Battle-Tested Tech Stack
-
-<table>
-<tr>
-<td>
-
-**Frontend**
-- ⚛️ React + Next.js
-- 📘 TypeScript  
-- 🎨 Tailwind CSS
-- 📱 PWA Ready
-
-</td>
-<td>
-
-**Backend**
-- 🟢 Node.js / Python
-- 🐘 PostgreSQL
-- 🔴 Redis Caching
-- 🔐 JWT Auth
-
-</td>
-<td>
-
-**Infrastructure**
-- ☁️ AWS/Vercel
-- 🐳 Docker
-- 🔄 CI/CD Pipelines
-- 📊 Monitoring
-
-</td>
-</tr>
-</table>
-
 ### 💳 Revenue-Ready Features Out of the Box
 
 ```javascript
-✅ Stripe Payment Integration
+✅ Stripe\Lemon Squeezy Payment Integration
 ✅ Subscription Management  
-✅ Multi-tenant Architecture
+✅ Workspaces
+✅ Teamate invitation (to workspaces)
 ✅ User Authentication & Authorization
 ✅ Admin Dashboard
 ✅ API Documentation
 ✅ Email Notifications
 ✅ Analytics Integration
+✅ Monitoring
+✅ And more...
 ```
 
 ---
@@ -106,19 +74,9 @@ Week 5+:  📈 Scale and optimize based on real user data
 | Scenario | Traditional Dev | Devlob Approach | Your Advantage |
 |----------|----------------|-----------------|----------------|
 | **Time to Market** | 4-6 months | 4 weeks | ⏰ 3-5 months faster |
-| **Development Cost** | $150K-300K | $50K-100K | 💰 $100K+ saved |
+| **Development Cost** | $50K-150K | $5K-20K | 💰 $100K+ saved |
 | **First Revenue** | Month 6 | Month 1 | 📈 5 months earlier |
 | **Market Position** | Late entrant | First mover | 🎯 Competitive advantage |
-
----
-
-## 🛠️ Our Open Source Contributions
-
-We believe in giving back to the developer community:
-
-[![SaaS Starter Kit](https://img.shields.io/badge/SaaS_Starter_Kit-⭐_1.2k-blue)](https://github.com/devlob/saas-starter)
-[![Next.js Auth](https://img.shields.io/badge/NextJS_Auth_Utils-⭐_800-green)](https://github.com/devlob/nextjs-auth)
-[![Payment Components](https://img.shields.io/badge/Stripe_Components-⭐_650-purple)](https://github.com/devlob/stripe-components)
 
 ---
 
@@ -175,26 +133,9 @@ graph LR
 
 1. **Discovery Call** (Week 0) - Understand your vision and requirements
 2. **Sprint 1** (Weeks 1-2) - Core functionality and infrastructure  
-3. **Sprint 2** (Weeks 3-4) - Polish, testing, and deployment
+3. **Sprint 2** (Weeks 3-4) - Development, Polish, testing, and deployment
 4. **Launch** (Week 4) - Go live with paying customers
 5. **Growth** (Ongoing) - Iterate based on real user feedback
-
----
-
-## 🎁 Limited Time: Startup Package
-
-```
-🔥 Only for the next 10 GitHub visitors
-```
-
-**Get Started Package Includes:**
-- ✅ Free technical discovery session ($2,500 value)
-- ✅ 6 months priority support ($5,000 value)  
-- ✅ Custom API documentation ($3,000 value)
-- ✅ Source code + deployment guide
-- ✅ 30-day money-back guarantee
-
-**Total Value: $10,500 in bonuses**
 
 ---
 
@@ -203,7 +144,7 @@ graph LR
 > **If we don't deliver your MVP within 30 days, you pay nothing.**  
 > We're so confident in our process that we'll even help you transition to another developer at no charge.
 
-**Why can we make this guarantee?** Our framework has successfully launched 50+ SaaS applications. We know exactly what works.
+**Why can we make this guarantee?** Our framework has successfully launched 20+ SaaS applications. We know exactly what works.
 
 ---
 
