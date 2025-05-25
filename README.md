@@ -155,10 +155,10 @@ graph LR
 <div align="center">
 
 ### 📅 Book Your Free Strategy Session
-**[Schedule Now →](https://calendly.com/devlob/strategy-session)**
+**[Schedule Now →](https://calendly.com/d/cq84-kf2-79c/project-evaluation?share_attribution=customize_once_and_share)**
 
 ### 📧 Start the Conversation  
-**[hello@devlob.com](mailto:hello@devlob.com)**
+**[business@devlob.com](mailto:business@devlob.com)**
 
 ### 🌐 Learn More
 **[devlob.com](https://devlob.com)**
